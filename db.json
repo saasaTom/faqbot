@@ -5,8 +5,6 @@
       "title": "hello"
     }
   ],
-  "profiletext": "THIS IS A TEXT ONLY RESPONSE",
-  "profilemarkdown": "#markdown This is markdown!",
   "profilejson": {
   "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
   "version": "1.0",
