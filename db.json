@@ -5,7 +5,8 @@
       "title": "hello"
     }
   ],
-  "profilejson": {
+  "profile_text": "This is text",
+  "profile_json": {
   "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
   "version": "1.0",
   "type": "AdaptiveCard",
