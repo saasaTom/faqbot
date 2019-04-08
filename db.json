@@ -1,6 +1,8 @@
 {
-  "profileText": { "message": "This is text", "result": "Hello"},
+  "profileText": { "status": "Success","messageType": "Text", "message": "This is text"},
+  "profileMarkdown": { "status": "Success","messageType": "Markdown", "message": "#This is markdown text"},
   "profileJson": {
+     "status": "Success","messageType": "AdaptiveCard", "message": {
   "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
   "version": "1.0",
   "type": "AdaptiveCard",
@@ -204,4 +206,5 @@
     }
   ]
 }
+  }
 }
