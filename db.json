@@ -1,6 +1,6 @@
 {
-  "profile_text": { "Message": "This is text", "Result": "Hello"},
-  "profile_json": {
+  "profileText": { "message": "This is text", "result": "Hello"},
+  "profileJson": {
   "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
   "version": "1.0",
   "type": "AdaptiveCard",
